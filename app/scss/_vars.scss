@@ -1,0 +1,51 @@
+$accent-color: #CF6F49;
+
+$text-color: #65665C;
+$default-color: #2A2C1F;
+$bg-col: #E7E8E3;
+
+%roboto-700 {
+  font-family: 'Roboto-Bold', sans-serif;
+  font-weight: 700;
+}
+%roboto-400 {
+  font-family: 'Roboto-Regular', sans-serif;
+  font-weight: 400;
+}
+
+// const productCards=new Swiper(".products__list", {
+
+//   slidesPerView: 3,
+//   slidesPerGroup: 3,
+//   grid: {
+//     rows: 2,
+//   }
+
+//   ,
+//   pagination: {
+
+//     el: ".swiper-pagination",
+//     clickable: true,
+//     renderBullet: function (index, className) {
+//       return '<span class="' + className + '">' + (index + 1) + "</span>";
+//     }
+
+//     ,
+//   }
+
+//   ,
+// });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
